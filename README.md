@@ -1,2 +1,2 @@
-# tarafoncica.02
-exercise GIT O
+MAIN
+README-EDITS
